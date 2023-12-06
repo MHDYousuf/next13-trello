@@ -1,6 +1,6 @@
 const ClerkLayout = ({ children }: { children: React.ReactNode }) => {
   return (
-    <div className="grid place-items-center">{children}</div>
+    <div className="grid h-full place-items-center">{children}</div>
   );
 };
 
